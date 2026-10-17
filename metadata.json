@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest Board Image Downloader",
+  "description": "PinterestのボードURLから画像を高画質で一括取得し、ZIP形式でまとめてダウンロードできるWebツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
